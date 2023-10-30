@@ -1,6 +1,6 @@
 # Securitronix: Smart Door Lock Conversion Project
 
-![Securitronix Smart Door Lock](link-to-image.jpg)
+![Securitronix Smart Door Lock](/media/1.jpg)
 
 **Project Description:**
 
@@ -30,24 +30,22 @@ Please note that this project is not open source. It was developed by the team a
 
 **Contributors:**
 
-- [Your Name]
-- [Friend 1's Name]
-- [Friend 2's Name]
-- [Friend 3's Name]
+- Sahil Chabra
+- Shaurya Khosla
+- Arunya
+- Deepakshi
 
-**Get Started:**
+**Images and videos:**
+![](/media/1.jpg)
+![](/media/3.jpg)
+![](/media/4.jpg)
+![](/media/5.jpg)
 
-To explore and understand the Securitronix project further, please refer to the project documentation and codebase provided by the team.
 
-[Documentation Link]
-[Code Repository Link]
 
-For inquiries and collaboration opportunities, feel free to contact the project developers.
+For inquiries and collaboration opportunities, feel free to contact the me.
 
 *Disclaimer: The electric shock feature should be implemented with caution and only for non-lethal security purposes. Use at your own discretion.*
 
-**License:**
-
-This project is not open source and should not be redistributed or modified without prior permission from the developers.
 
 **Thank you for your interest in the Securitronix project!**
